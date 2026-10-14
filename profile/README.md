@@ -1,12 +1,21 @@
-## Hi there 👋
+# TRIBO
 
-<!--
+**TRIBO Brand Directory**
 
-**Here are some ideas to get you started:**
+Explore TRIBO and its affiliated brands through their official Facebook pages.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Official Pages
+
+| Brand | Facebook Page |
+|---|---|
+| **TRIBO** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594717856647) |
+| **TRIBO Learning Hub** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594821592336) |
+| **TRIBO Properties** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594782534095) |
+| **TRIBO Stay** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594734116363) |
+| **TRIBO Food Park** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594781514145) |
+| **TRIBO Water** | [Visit Facebook](https://www.facebook.com/prowatertechnologiesinc) |
+
+---
+
+*Follow our pages for the latest updates, announcements, and offerings across the TRIBO brand.*
+
