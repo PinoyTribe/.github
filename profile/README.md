@@ -12,7 +12,7 @@ Explore TRIBO and its affiliated brands through their official Facebook pages.
 | **TRIBO Learning Hub** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594821592336) |
 | **TRIBO Properties** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594782534095) |
 | **TRIBO Stay** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594734116363) |
-| **TRIBO Food Park** | [Visit Facebook](https://www.facebook.com/profile.php?id=61594781514145) |
+| **TRIBO Food Park** | [Visit Facebook](https://www.facebook.com/profile.php?id=61583528006609) |
 | **TRIBO Water** | [Visit Facebook](https://www.facebook.com/prowatertechnologiesinc) |
 
 ---
